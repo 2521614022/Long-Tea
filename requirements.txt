@@ -1,0 +1,6 @@
+gdown
+ftfy
+regex
+scipy
+scikit-learn
+tqdm
