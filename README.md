@@ -1,4 +1,4 @@
-# Multimodal Intellengent Grading: AI Replacing Tea Master Evaluation Using Five Core Criteria
+# Multimodal Intelligence Grading: AI Replacing Tea Master Evaluation Using Five Core Criteria
 
 ## Introduction
 Traditional tea quality evaluation depends on human evaluators, limiting scalability and consistency. To establish AI replacement for comprehensive evaluation of tea quality and detailed assessment of the tea consumption experience, this study aims to develop Long-Tea-CLIP (Contrastive Language-Image Pre-training), an multimodal tea grading system that combines computer vision and chemoinformatics.
